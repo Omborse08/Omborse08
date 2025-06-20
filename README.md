@@ -50,4 +50,4 @@
 
 ### 🧠 Fun Fact
 
-> "Even Google started with a simple algorithm. I'm starting with `print("Hello, World!")` 😄
+> "> "Learning AI so hard, even my model overfits on my tears."😭😄

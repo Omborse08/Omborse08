@@ -43,7 +43,7 @@
 ### 🌐 Connect with Me
 
 - 📧 Email: omborse48@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omborse09/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omborse07/)  
 - 🧑‍💻 [GitHub](https://github.com/Omborse08)
 
 ---

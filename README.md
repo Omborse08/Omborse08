@@ -1,33 +1,37 @@
-<h1 align="center">Hi there 👋, I'm Om</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | 🐍 Python Learner | 🇮🇳 India → 🇺🇸 USA</h3>
+<h1 align="center">Hey there 👋 I'm Om Borse</h1>
+<h3 align="center">🌟 Future ML Engineer | 🐍 Python Enthusiast | 🇮🇳 Dreaming Big → 🇺🇸</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 Who Am I?
 
-- 🎓 I'm on a journey to become a **Machine Learning Engineer**
-- 💡 Currently learning **Python**, and exploring the world of **AI & ML**
-- 🛠️ Building small projects to sharpen logic and problem-solving
-- 🌎 Dreaming big: **Work in the USA tech industry one day!**
-- 🧠 Believer of “Learning by Doing” — line by line, project by project
-
----
-
-### 📘 Current Focus
-
-- Python Programming (Data types, Loops, Logic building)
-- Basics of Artificial Intelligence & Machine Learning
-- Real-world mini projects: starting with **Budget Tracker** ✅
-- Git & GitHub for version control and collaboration
+- 🎯 **Aspiring Machine Learning Engineer** with a passion for real-world problem solving
+- 🔍 Currently diving deep into **Python** and building a strong foundation in **AI/ML**
+- 🛠️ Crafting beginner-friendly projects to sharpen my logic, one line at a time
+- 🌍 Strong believer in *"Learning by Building"* — not just theory, but applied code
+- 🌱 Always curious, always improving — because growth is a mindset
 
 ---
 
-### 🔧 Tools & Technologies
+### 🚀 What I’m Working On
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+- 📘 Learning: Python syntax, data types, loops, conditionals, functions, etc.
+- 🤖 Starting ML basics: algorithms, model building, data preprocessing
+- 🔨 Projects: 
+  - ✅ **Budget Tracker** (done)
+  - ⏳ More Python-based mini tools coming soon
+- 🔄 Version control with **Git & GitHub**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+</p>
 
 ---
 
@@ -40,14 +44,23 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Let’s Connect
 
-- 📧 Email: omborse48@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omborse07/)  
-- 🧑‍💻 [GitHub](https://github.com/Omborse08)
+- 📬 Email: [omborse48@gmail.com](mailto:omborse48@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/omborse07](https://www.linkedin.com/in/omborse07/)
+- 💻 GitHub: [github.com/Omborse08](https://github.com/Omborse08)
 
 ---
 
-### 🧠 Fun Fact
+### 🎯 Goal
 
-> "> "Learning AI so hard, even my model overfits on my tears."😭😄
+> 🇮🇳 → 🇺🇸 I'm preparing myself step by step to one day contribute to the U.S. tech industry as a Machine Learning Engineer. 💻✨
+
+---
+
+### 😄 Fun Developer Fact
+
+> *"I'm training harder than my models — and yes, they still overfit sometimes."*
+
+---
+

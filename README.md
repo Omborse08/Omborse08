@@ -22,7 +22,8 @@
   - ⏳ More Python-based mini tools coming soon
 - 🔄 Version control with **Git & GitHub**
 
----
+### 🌟Buy Me A Coffee
+Ling => https://buymeacoffee.com/omborse
 
 ### 🛠️ Tech Stack
 

@@ -1,67 +1,82 @@
-<h1 align="center">Hey there 👋 I'm Om Borse</h1>
-<h3 align="center">🌟 Future ML Engineer | 🐍 Python Enthusiast | 🇮🇳 Dreaming Big → 🇺🇸</h3>
-
----
-
-### 🧠 Who Am I?
-
-- 🎯 **Aspiring Machine Learning Engineer** with a passion for real-world problem solving
-- 🔍 Currently diving deep into **Python** and building a strong foundation in **AI/ML**
-- 🛠️ Crafting beginner-friendly projects to sharpen my logic, one line at a time
-- 🌍 Strong believer in *"Learning by Building"* — not just theory, but applied code
-- 🌱 Always curious, always improving — because growth is a mindset
-
----
-
-### 🚀 What I’m Working On
-
-- 📘 Learning: Python syntax, data types, loops, conditionals, functions, etc.
-- 🤖 Starting ML basics: algorithms, model building, data preprocessing
-- 🔨 Projects: 
-  - ✅ **Budget Tracker** (done)
-  - ⏳ More Python-based mini tools coming soon
-- 🔄 Version control with **Git & GitHub**
-
-### 🌟Buy Me A Coffee
-Link => https://buymeacoffee.com/omborse
-
-### 🛠️ Tech Stack
+<h1 align="center">✨ OM BORSE</h1>
+<h3 align="center">Future ML Engineer | Python Developer | 🇮🇳 → 🇺🇸</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange">
-  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Code.+Learn.+Repeat.;ML+Engineer+in+the+Making...;Consistency+is+Greater+Than+Talent" alt="Typing SVG">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🙋‍♂️ About Me
+
+- 👨‍💻 Aspiring **Machine Learning Engineer**
+- 🐍 Currently deep-diving into **Python**
+- 🛠️ Believe in *learning-by-building* (no boring theory!)
+- 🌱 Growing 1% every day — even when no one is watching
+- 🧠 Long-term mission: **Work in the U.S. tech industry**
+
+---
+
+### 📌 Currently Working On
+
+- ✅ Budget Tracker CLI App
+- ⚙️ Exploring: Python Functions, File I/O, OOPs
+- 🤖 Learning ML: Data Preprocessing & Models
+- 🧪 Building: Cool beginner ML tools & automations
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omborse08&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omborse08&layout=compact&theme=default" width="400"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=flat-rounded&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Let’s Connect
+### 📈 GitHub Insights
 
-- 📬 Email: [omborse48@gmail.com](mailto:omborse48@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/omborse07](https://www.linkedin.com/in/omborse07/)
-- 💻 GitHub: [github.com/Omborse08](https://github.com/Omborse08)
-
----
-
-### 🎯 Goal
-
-> 🇮🇳 → 🇺🇸 I'm preparing myself step by step to one day contribute to the U.S. tech industry as a Machine Learning Engineer. 💻✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omborse08&show_icons=true&theme=calm&border_radius=10" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omborse08&layout=compact&theme=calm&border_radius=10" width="400"/>
+</p>
 
 ---
 
-### 😄 Fun Developer Fact
+### ☕ Buy Me a Coffee
 
-> *"I'm training harder than my models — and yes, they still overfit sometimes."*
+<p align="center">
+  <a href="https://buymeacoffee.com/omborse">
+    <img src="https://img.shields.io/badge/Buy_Me_Coffee-yellow?style=flat-rounded&logo=buymeacoffee&logoColor=black">
+  </a>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:omborse48@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat-rounded&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/omborse07/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-rounded&logo=linkedin"></a>
+  <a href="https://github.com/Omborse08"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-rounded&logo=github"></a>
+</p>
+
+---
+
+### 🚀 Vision
+
+> 🇮🇳 Born in India, dreaming beyond borders  
+> 💻 I'm not just coding — I'm preparing for a global future  
+> 🌍 Goal: Contribute to AI/ML at scale in the U.S. tech ecosystem
+
+---
+
+### ⚡ Developer Quote
+
+> *"My models aren't the only thing improving with every epoch — I am too."*
 
 ---
 

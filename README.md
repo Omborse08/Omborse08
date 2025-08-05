@@ -23,7 +23,7 @@
 - 🔄 Version control with **Git & GitHub**
 
 ### 🌟Buy Me A Coffee
-Ling => https://buymeacoffee.com/omborse
+Link => https://buymeacoffee.com/omborse
 
 ### 🛠️ Tech Stack
 

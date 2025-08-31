@@ -1,4 +1,4 @@
-# Om Borse
+**Om Borse**
 
 **B.Sc. in Computer Science (AI/ML Specialization)**  
 Sandip University, Nashik · AI/ML Enthusiast · Pythonista

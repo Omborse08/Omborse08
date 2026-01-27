@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Om
 
-<!--
-**Omborse08/Omborse08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer (in progress) | Java-focused  
+Interested in building reliable backend systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I'm a Computer Science student working toward a backend engineering role.
+
+My current focus is on:
+- Core programming fundamentals in **Java**
+- Understanding backend concepts step by step
+- Writing clean, readable code
+- Learning how real backend systems work in practice
+
+I prefer learning through hands-on work rather than tutorials alone.
+
+---
+
+## Technical Focus
+
+**Primary**
+- Java (core concepts, OOP)
+- Backend fundamentals
+- REST APIs (basics)
+- Databases (basics)
+
+**Secondary**
+- Python Completed ✔
+- n8n (automation, AI agents, API workflows)
+
+**Tools**
+- Git & GitHub
+- Linux basics
+
+---
+
+## Practice & Projects
+
+### Backend Learning Projects
+Small backend-oriented projects focused on:
+- Logic building
+- API structure
+- Data handling
+
+### Automation & AI Workflows
+Built automation flows and AI agents using n8n, focusing on:
+- API integration
+- Workflow logic
+- Practical use-cases
+
+👉 Pinned repositories show current work 👇
+
+---
+
+## Connect
+- Website: https://yourwebsite.com
+- LinkedIn: https://linkedin.com/in/yourusername
+
+---
+
+*Focused on fundamentals. Long-term backend growth.*

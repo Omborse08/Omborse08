@@ -51,13 +51,10 @@ Built automation flows and AI agents using n8n, focusing on:
 - Practical use-cases
 
 👉 Pinned repositories show current work 👇
+- Website built using AI-assisted tools and manual customization.
 
 ---
 
 ## Connect
-- Website: https://yourwebsite.com
-- LinkedIn: https://linkedin.com/in/yourusername
-
----
-
-*Focused on fundamentals. Long-term backend growth.*
+- Website: https://www.clicense.online/
+- LinkedIn: https://linkedin.com/in/omborse07

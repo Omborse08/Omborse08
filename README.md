@@ -1,6 +1,6 @@
 # Hi, I'm Om
 
-Backend Engineer (in progress) | Java-focused  
+Backend Engineer | Java-focused  
 Interested in building reliable backend systems
 
 ---
@@ -10,11 +10,9 @@ I'm a Computer Science student working toward a backend engineering role.
 
 My current focus is on:
 - Core programming fundamentals in **Java**
-- Understanding backend concepts step by step
+- Understanding backend concepts
 - Writing clean, readable code
 - Learning how real backend systems work in practice
-
-I prefer learning through hands-on work rather than tutorials alone.
 
 ---
 

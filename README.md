@@ -1,59 +1,30 @@
-# Hi, I'm Om
+# Hi, I'm Om Borse
 
-Backend Engineer | Java-focused  
-Interested in building reliable backend systems
-
----
-
-## About
-I'm a Computer Science student working toward a backend engineering role.
-
-My current focus is on:
-- Core programming fundamentals in **Java**
-- Understanding backend concepts
-- Writing clean, readable code
-- Learning how real backend systems work in practice
+Backend Developer | Java-focused  
+Building real-world backend systems from scratch.
 
 ---
 
-## Technical Focus
+## Tech Stack
 
-**Primary**
-- Java (core concepts, OOP)
-- Backend fundamentals
-- REST APIs (basics)
-- Databases (basics)
-
-**Secondary**
-- Python Completed ✔
-- n8n (automation, AI agents, API workflows)
-
-**Tools**
-- Git & GitHub
-- Linux basics
+**Strong:** Java · OOP · Data Structures  
+**Working with:** SQL · JDBC · REST API concepts  
+**Tools:** Git · GitHub · Linux · n8n  
+**Exploring:** Spring Boot · AI API integrations  
 
 ---
 
-## Practice & Projects
+## Projects
 
-### Backend Learning Projects
-Small backend-oriented projects focused on:
-- Logic building
-- API structure
-- Data handling
+15+ backend projects built in Java — covering OOP systems,
+data structures, REST API concepts, and automation workflows.
 
-### Automation & AI Workflows
-Built automation flows and AI agents using n8n, focusing on:
-- API integration
-- Workflow logic
-- Practical use-cases
-
-👉 Pinned repositories show current work 👇
-- Website built using AI-assisted tools and manual customization.
+👇 Pinned repos below show best work.
 
 ---
 
 ## Connect
-- Website: www.clicense.online
-- LinkedIn: https://linkedin.com/in/omborse07
+
+- LinkedIn: [linkedin.com/in/omborse07](https://linkedin.com/in/omborse07)
 - Email: borseom34@gmail.com
+- Website: [clicense.online](https://clicense.online)

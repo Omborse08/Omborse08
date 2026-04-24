@@ -8,7 +8,7 @@ Building real-world backend systems from scratch.
 ## Tech Stack
 
 **Strong:** Java · OOP · Data Structures  
-**Working with:** SQL · JDBC · REST API concepts  
+**Working with:** SQL · JDBC  
 **Tools:** Git · GitHub · Linux · n8n  
 **Exploring:** Spring Boot · AI API integrations  
 

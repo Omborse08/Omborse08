@@ -16,10 +16,8 @@ Building real-world backend systems from scratch.
 
 ## Projects
 
-15+ backend projects built in Java — covering OOP systems,
-data structures, REST API concepts, and automation workflows.
-
-👇 Pinned repos below show best work.
+17+ backend projects built in Java — covering OOP systems,
+data structures, and automation workflows.
 
 ---
 

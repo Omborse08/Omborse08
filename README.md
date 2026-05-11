@@ -1,4 +1,4 @@
-# Hi, I'm Om Borse
+# Hello, I'm Om Borse
 
 Backend Developer | Java-focused  
 Building real-world backend systems from scratch.
